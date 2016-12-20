@@ -1,0 +1,31 @@
+{
+  "name": "bdd-dojo-gherkin-runner",
+  "version": "1.0.0",
+  "description": "BDD/TDD dojo for Javascript users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogala/dojoBDD-TDD.git"
+  },
+  "keywords": [
+    "bdd",
+    "tdd",
+    "karma",
+    "jasmine",
+    "gherkin",
+    "test",
+    "runner"
+  ],
+  "author": "Benoit FONTAINE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bogala/dojoBDD-TDD/issues"
+  },
+  "homepage": "https://github.com/Bogala/dojoBDD-TDD#readme",
+  "devDependencies": {
+    "node-gherkin-runner": "^1.0.7"
+  }
+}
